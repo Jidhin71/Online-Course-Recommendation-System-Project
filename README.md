@@ -96,11 +96,10 @@ Live app: **[online-course-recommendation-system-project.streamlit.app](https://
 
 ## 📸 Screenshot
 
-*(Add a screenshot of the app here — drag an image into the README on GitHub, or use the syntax below once uploaded)*
 
-```markdown
+
 ![App Screenshot](working.png)
-```
+
 
 ---
 
